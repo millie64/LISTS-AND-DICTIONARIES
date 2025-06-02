@@ -1,1 +1,2 @@
 # LISTS-AND-DICTIONARIES
+Lists and dictionaries—this is where Python started to feel like a language I could actually use to build stuff. This repo is me messing around with storing, accessing, and organizing data in ways that make sense (and sometimes don’t, till I fix it). I’m learning to think in terms of structure now, not just steps. Still figuring things out, still breaking stuff—and that’s the point.
